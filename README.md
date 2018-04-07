@@ -1,5 +1,5 @@
 
-# Contents of Collabnix
+# Collabnix - Docker | Kubernetes | Cloud
 
 # Docker Swarm Mode
 
