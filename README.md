@@ -18,6 +18,8 @@
 [Understanding Node Failure Handling under Docker 1.12 Swarm Mode](http://collabnix.com/understanding-node-failure-handling-under-docker-1-12-swarm-mode/)<br>
 [Docker 1.12 Swarm Mode – Under the hood](http://collabnix.com/docker-1-12-swarm-mode-under-the-hood/)<br>
 [Docker 1.12 Networking Model Overview](http://collabnix.com/docker-1-12-networking-model-explained/)<br>
+[Docker Engine 1.12 comes with built-in Distribution & Orchestration System](http://collabnix.com/new-docker-1-12-comes-with-built-in-distribution-orchestration-system/)<br>
+
 
 
 
