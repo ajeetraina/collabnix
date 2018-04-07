@@ -30,7 +30,7 @@
 
 # Play with Docker
 
-[Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/) <br>
+[Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/)<br>
 [Test Drive Elastic stack on PWD platform running Docker 17.06 CE Swarm Mode in 5 minutes](Test Drive Elastic stack on PWD platform running Docker 17.06 CE Swarm Mode in 5 minutes) <br>
 [Topology Aware Scheduling under Docker v17.05.0 Swarm Mode Cluster](http://collabnix.com/demonstrating-topology-aware-scheduling-under-docker-17-05-swarm-mode/) <br>
 [Test Drive 5 Cool Docker Application Stacks on play-with-docker (PWD) platform](http://collabnix.com/5-cool-application-stacks-to-showcase-using-play-with-dockerpwd/) <br>
