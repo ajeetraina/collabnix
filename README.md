@@ -10,7 +10,15 @@
 [Docker Service Inspection Filtering & Template Engine under Swarm Mode](http://collabnix.com/understanding-swarm-mode-filtering/)<br>
 [Docker Compose v3.1 file format now supports Docker 1.13.1 Secret Management](http://collabnix.com/docker-compose-1-11-brings-support-for-docker-engine-1-13-1-secret-management/)<br>
 [What’s New in Docker Engine 1.13 Swarm Mode?](http://collabnix.com/whats-new-in-docker-engine-1-13-swarm-mode/)<br>
-[The 20-minutes Docker 1.12 Swarm Mode demonstration on Azure Platform](http://collabnix.com/the-20-minutes-docker-1-12-demonstration-on-azure-platform/)
+[The 20-minutes Docker 1.12 Swarm Mode demonstration on Azure Platform](http://collabnix.com/the-20-minutes-docker-1-12-demonstration-on-azure-platform/)<br>
+[Docker 1.12 Swarm Mode & Persistent Storage using NFS](http://collabnix.com/docker-1-12-swarm-mode-persistent-storage-using-nfs/)<br>
+[What’s new in Docker 1.12 Scheduling? – Part-I](http://collabnix.com/whats-new-in-docker-1-12-scheduling-part-i/)<br>
+[What’s new in Docker 1.12.0 Load-Balancing feature?](http://collabnix.com/whats-new-in-docker-1-12-0-load-balancing/)<br>
+[Demystifying Service Discovery under Docker Engine 1.12.0](http://collabnix.com/how-service-discovery-works-under-docker-1-12/)<br>
+[Understanding Node Failure Handling under Docker 1.12 Swarm Mode](http://collabnix.com/understanding-node-failure-handling-under-docker-1-12-swarm-mode/)<br>
+[Docker 1.12 Swarm Mode – Under the hood](http://collabnix.com/docker-1-12-swarm-mode-under-the-hood/)<br>
+[Docker 1.12 Networking Model Overview](http://collabnix.com/docker-1-12-networking-model-explained/)<br>
+
 
 
 # LinuxKit/Moby
