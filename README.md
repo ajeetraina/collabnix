@@ -21,7 +21,7 @@
 [Building a Secure VM based on LinuxKit on Microsoft Azure Platform](http://collabnix.com/running-linuxkit-os-on-microsoft-azure-platform-for-the-first-time/) <br>
 [Building Docker For Mac 17.06 Community Edition using Moby & LinuxKit](http://collabnix.com/building-docker-for-mac-17-06-using-moby/) <br>
 [Walkthrough: How to build your own customised LinuxKit kernel?](http://collabnix.com/building-your-own-customised-kernel-with-linuxkit/) <br>
-[Talking about Moby & LinuxKit Awesomeness at Docker Bangalore Meetup](http://collabnix.com/speaking-at-bangalore-docker-meetup-moby-linuxkit/)
+[Talking about Moby & LinuxKit Awesomeness at Docker Bangalore Meetup](http://collabnix.com/speaking-at-bangalore-docker-meetup-moby-linuxkit/) <br>
 [Building a minimalistic LinuxKit OS on Raspberry Pi 3 using Moby](http://collabnix.com/building-linuxkit-os-on-raspberry-pi/) <br>
 
 
