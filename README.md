@@ -1,6 +1,18 @@
 
 # Contents of Collabnix
 
+# Docker Swarm Mode
+
+[Docker 17.06 Swarm Mode: Now with built-in MacVLAN & Node-Local Networks support](http://collabnix.com/docker-17-06-swarm-mode-now-with-macvlan-support/)<br>
+[Topology Aware Scheduling under Docker v17.05.0 Swarm Mode Cluster](http://collabnix.com/demonstrating-topology-aware-scheduling-under-docker-17-05-swarm-mode/)<br>
+[Docker Service Inspection Filtering & Template Engine under Swarm Mode](http://collabnix.com/understanding-swarm-mode-filtering/)<br>
+[Running Apache JMeter 3.1 Distributed Load Testing Tool using Docker Compose v3.1 on Swarm Mode Cluster](http://collabnix.com/running-apache-jmeter-3-1-distributed-load-testing-using-docker-compose-v3-1-swarm-mode/)<br>
+[Docker Service Inspection Filtering & Template Engine under Swarm Mode](http://collabnix.com/understanding-swarm-mode-filtering/)<br>
+[Docker Compose v3.1 file format now supports Docker 1.13.1 Secret Management](http://collabnix.com/docker-compose-1-11-brings-support-for-docker-engine-1-13-1-secret-management/)<br>
+[What’s New in Docker Engine 1.13 Swarm Mode?](http://collabnix.com/whats-new-in-docker-engine-1-13-swarm-mode/)<br>
+[The 20-minutes Docker 1.12 Swarm Mode demonstration on Azure Platform](http://collabnix.com/the-20-minutes-docker-1-12-demonstration-on-azure-platform/)
+
+
 # LinuxKit/Moby
 
 [LinuxKit 101: Getting Started with LinuxKit for Google Cloud Platform](https://collabnix.com/linuxkit-101-getting-started-with-linuxkit-on-google-cloud-platform/) <br>
