@@ -1,5 +1,5 @@
 
-# Welcome to Collabnix
+# Contents of Collabnix
 
 # LinuxKit/Moby
 
