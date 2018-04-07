@@ -1,12 +1,7 @@
 
 # Welcome to Collabnix
 
-## Getting Started with Docker<br>
-
-## Docker Swarm Mode<br>
-
-
-## LinuxKit/Moby
+# LinuxKit/Moby
 
 [LinuxKit 101: Getting Started with LinuxKit for Google Cloud Platform](https://collabnix.com/linuxkit-101-getting-started-with-linuxkit-on-google-cloud-platform/) <br>
 [Test-Drive LinuxKit OS on Oracle VirtualBox running on macOS Sierra](http://collabnix.com/test-drive-linuxkit-os-on-oracle-virtualbox-running-on-macos-sierra/)<br>
@@ -25,24 +20,7 @@
 [Building a minimalistic LinuxKit OS on Raspberry Pi 3 using Moby](http://collabnix.com/building-linuxkit-os-on-raspberry-pi/) <br>
 
 
-## Docker Networking<br>
-
-## Docker Cloud<br>
-
-## Docker Datacenter<br>
-
-## Docker Compose<br>
-
-## Docker on Raspberry Pi<br>
-
-## DellEMC RexRay
-
-## Docker Compose
-
-## IoT
-
-## Play with Docker
-
+# Docker for Mac & Kubernetes
 
 
 
