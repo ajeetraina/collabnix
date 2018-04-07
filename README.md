@@ -14,7 +14,6 @@
 [Top 10 Reasons why LinuxKit is better than the traditional OS distribution](http://collabnix.com/top-10-reasons-why-linuxkit-is-better-than-the-traditional-os-distribution/) <br>
 [Building a secure Docker Host VM on VMware ESXi using LinuxKit & Moby](https://collabnix.com/building-a-secure-vmware-infrastructure-using-moby-linuxkit/) <br>
 [Building a Secure VM based on LinuxKit on Microsoft Azure Platform](https://collabnix.com/running-linuxkit-os-on-microsoft-azure-platform-for-the-first-time/)
-
 [Running LinuxKit on AWS Platform made easy](https://collabnix.com/running-linuxkitos-on-amazon-web-service-platformaws/)<br>
 
 
