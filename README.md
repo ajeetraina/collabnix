@@ -15,7 +15,6 @@
 [Building a secure Docker Host VM on VMware ESXi using LinuxKit & Moby](https://collabnix.com/building-a-secure-vmware-infrastructure-using-moby-linuxkit/) <br>
 [Building a Secure VM based on LinuxKit on Microsoft Azure Platform](https://collabnix.com/running-linuxkit-os-on-microsoft-azure-platform-for-the-first-time/) <br>
 [Running LinuxKit on AWS Platform made easy](https://collabnix.com/running-linuxkitos-on-amazon-web-service-platformaws/)<br>
-[Building a minimalistic LinuxKit OS on Raspberry Pi 3 using Moby] (http://collabnix.com/building-linuxkit-os-on-raspberry-pi/) <br>
 [How to Build Kubernetes Cluster using CRI-containerd & Moby](http://collabnix.com/building-multi-node-kubernetes-cluster-using-linuxkit-cri-containerd/) <br>
 [Getting Started with Multi-Node Kubernetes Cluster using LinuxKit](http://collabnix.com/getting-started-with-multi-node-kubernetes-cluster-using-linuxkit/) <br>
 [Building a secure Docker Host VM on VMware ESXi using LinuxKit & Moby](http://collabnix.com/building-a-secure-vmware-infrastructure-using-moby-linuxkit/) <br>
